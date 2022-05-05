@@ -5,3 +5,4 @@ export interface Movie {
     synopsis: string;
     link: string;
 }
+// adding note to commit
