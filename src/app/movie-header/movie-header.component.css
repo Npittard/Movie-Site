@@ -1,0 +1,25 @@
+
+.headerItems{
+    display: flex;
+    justify-content:space-around;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-items: center;
+}
+.movieTitle{
+    color: rgb(17, 59, 64);
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+}
+/* .addMovieBtn{
+    background-color: #113B40;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 30%;
+} */
+.headerContainer{
+    border-bottom: 2px rgb(17, 59, 64) solid;
+}
