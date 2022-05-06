@@ -9,12 +9,10 @@
 .movieTitle{
     color: rgb(17, 59, 64);
     font-family: 'Dancing Script', cursive;
-<<<<<<< HEAD
     font-size: 2.7vw;
     overflow-wrap: break-word;
-=======
     font-size: 2.3vw;
->>>>>>> c9d6e922e48679b372a40a17ba5e0e5cd50b126a
+
 }
 /* .addMovieBtn{
     background-color: #113B40;

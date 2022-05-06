@@ -56,7 +56,7 @@ export const MOVIES: Movie[] = [
     {
         id: 8,
         title: 'DeepBlue Sea',
-        cover: '../../assets/Deep blue sea.PNG',
+        cover: '../../assets/Deepbluesea.PNG',
         synopsis:"Searching for a cure to Alzheimer's disease, a group of scientists on an isolated research facility become the prey, as a trio of intelligent sharks fight back.",
         link: 'https://www.imdb.com/title/tt0149261/',
     }
