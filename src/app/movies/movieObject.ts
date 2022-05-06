@@ -27,14 +27,14 @@ export const MOVIES: Movie[] = [
     },
     {
         id: 4,
-        title: 'A Quiet Place 1',
+        title: 'A Quiet Place Part I',
         cover: 'https://npittard.github.io/Movie-Site/assets/Aquietplace1.png',
         synopsis:'In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.',
         link: 'https://www.imdb.com/title/tt6644200',
     },
     {
         id: 5,
-        title: 'A Quiet Place2',
+        title: 'A Quiet Place Part II',
         cover: 'https://npittard.github.io/Movie-Site/assets/aquietplace2.png',
         synopsis:'Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize the creatures that hunt by sound are not the only threats lurking beyond the sand path',
         link: 'https://www.imdb.com/title/tt8332922/',
@@ -55,7 +55,7 @@ export const MOVIES: Movie[] = [
     },
     {
         id: 8,
-        title: 'DeepBlue Sea',
+        title: 'Deep Blue Sea',
         cover: 'https://npittard.github.io/Movie-Site/assets/Deepbluesea.png',
         synopsis:"Searching for a cure to Alzheimer's disease, a group of scientists on an isolated research facility become the prey, as a trio of intelligent sharks fight back.",
         link: 'https://www.imdb.com/title/tt0149261/',

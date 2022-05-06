@@ -1,20 +1,24 @@
 .movieItem{
-    display:flex;
-    font-size: 1.2vw;
+    font-size: 1em;
+    display: flex;
+    border-bottom: 2px rgb(17, 59, 64) solid;
+    margin-top: 5%;
 }
 .movieTitle{
-    font-size: 2.5vw;
+    font-size: 1.5em;
     font-weight: 700;
-    border-bottom: 2px rgb(17, 59, 64) solid;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Koulen', cursive;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .movieList{
     list-style-type: none;
     display: flex;
+    flex-direction: column;
     padding: 0;
-    height: 100%;
-    border-bottom: 2px rgb(17, 59, 64) solid;
+    margin: 0;
 }
 .movieCover{
     max-height: 200px;
@@ -26,20 +30,27 @@
 .cover{
     max-height:200px;
     max-width: 140px;
+    border-radius: 3%;
 }
 .movieInformation{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 2%;
-
-}
-.movieSynopsis{
-    margin-top: 5%;
+    border-radius: 8px;
+    backdrop-filter: blur(20px);
+    background-color: #99B3C0;
+    box-shadow: 0 1px 12px rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(255, 255, 255,0.3);
+    max-height:200px;
     margin-left: 2%;
     margin-right: 2%;
-    margin-bottom: 5%;
-    font-size: 1.2vw;
+    padding: 0;
+    margin-bottom: 2%;
+}
+.movieSynopsis{
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: .7em;
     font-family: 'Koulen', cursive;
 }
 
@@ -68,10 +79,10 @@
         max-height: 100%;
     }
     .movieSynopsis{
-        font-size: 3vw;
+        font-size: 1.5em;
     }
     .movieTitle{
-        font-size: 3vw;
+        font-size: 3em;
     }
     .movieInformation{
         margin-left: 12.5%;
