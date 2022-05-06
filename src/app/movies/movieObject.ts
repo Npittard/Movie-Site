@@ -34,7 +34,7 @@ export const MOVIES: Movie[] = [
     },
     {
         id: 5,
-        title: 'AQuietPlace2',
+        title: 'A Quiet Place2',
         cover: 'https://npittard.github.io/Movie-Site/assets/aquietplace2.png',
         synopsis:'Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize the creatures that hunt by sound are not the only threats lurking beyond the sand path',
         link: 'https://www.imdb.com/title/tt8332922/',

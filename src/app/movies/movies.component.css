@@ -1,12 +1,12 @@
-*{
-    font-family: 'Roboto', sans-serif;
-}
 .movieItem{
     display:flex;
     font-size: 1.2vw;
 }
 .movieTitle{
     font-size: 2.5vw;
+    font-weight: 700;
+    border-bottom: 2px rgb(17, 59, 64) solid;
+    font-family: 'Roboto', sans-serif;
 }
 
 .movieList{
@@ -40,6 +40,7 @@
     margin-right: 2%;
     margin-bottom: 5%;
     font-size: 1.2vw;
+    font-family: 'Koulen', cursive;
 }
 
 @media only screen and (max-width: 768px) {
@@ -67,6 +68,9 @@
         max-height: 100%;
     }
     .movieSynopsis{
+        font-size: 3vw;
+    }
+    .movieTitle{
         font-size: 3vw;
     }
     .movieInformation{
