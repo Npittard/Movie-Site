@@ -24,12 +24,14 @@
     max-height: 200px;
     max-width: 140px;
     margin-left: 3%;
+    margin-right: 3%;
     margin-bottom: 3%;
 }
 
 .cover{
-    max-height:200px;
-    max-width: 140px;
+    width: 100%;
+    height: 100%; 
+    object-fit: contain;
     border-radius: 3%;
 }
 .movieInformation{
