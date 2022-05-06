@@ -1,0 +1,24 @@
+.socialMediaContainer{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.socialMediaLinks{
+    list-style: none;
+    padding-left: 0;
+    padding-right: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    color: #113B40;
+}
+i{
+    font-size: 2.5em;
+}
+.shitTalk{
+    height: 1em;
+    width: 1em;
+}
+.shitTalk p{
+    font-size: .3em;
+}
