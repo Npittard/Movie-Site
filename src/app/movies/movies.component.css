@@ -3,10 +3,16 @@
 }
 .movieItem{
     display: flex;
+    font-size: 1.2vw;
 }
 .movieTitle{
+<<<<<<< HEAD
     font-size: 3vw;
+=======
+    
+>>>>>>> c9d6e922e48679b372a40a17ba5e0e5cd50b126a
 }
+
 .movieList{
     list-style-type: none;
     display: flex;
