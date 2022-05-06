@@ -3,10 +3,12 @@
 }
 .movieItem{
     display: flex;
+    font-size: 1.2vw;
 }
 .movieTitle{
-    font-size: xx-large;
+    
 }
+
 .movieList{
     list-style-type: none;
     display: flex;
