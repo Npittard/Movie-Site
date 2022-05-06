@@ -17,3 +17,7 @@
 .headerContainer{
     border-bottom: 2px rgb(17, 59, 64) solid;
 }
+
+@media only screen and (max-width: 768px) {
+
+}
